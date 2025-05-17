@@ -1,34 +1,47 @@
-# 💫 About Me:
-👋 Hey there! I'm Kapil Sharma<br>
-🔭 Currently working as:<br><br>
-- Software Engineer Intern at SkillRank (USA) - Building AI-augmented React components & REST APIs with AI caching<br>
-- Website Coordinator at GJUS&T - Developed Haryana's 1st centralized job fair platform (2,500+ registrations)<br>
-- MERN Stack Developer with 3+ production projects serving thousands of users<br><br>
-🌱 Currently learning:<br><br>
-- Advanced backend development with Node.js and Microservices<br>
-- Cloud computing (AWS, Firebase) and system design<br>
-- AI/ML integration in web apps (Llama 2, LangChain certified)<br><br>
-💻 Technical Skills:<br><br>
-- **Frontend:** ReactJS, NextJS, TypeScript, TailwindCSS<br>
-- **Backend:** Node.js, Express, RESTful APIs, Python<br>
-- **Databases:** MySQL, MongoDB, Firebase<br>
-- **DevOps:** Git, Linux (LFCS Certified), AWS, Render<br><br>
-🚀 Recent Achievements:<br><br>
-- Built healthcare platform serving 500+ users with 92% booking accuracy<br>
-- Created university portal handling 2,500+ annual registrations<br>
-- Developed AI-powered anonymous messaging platform with OpenAI integration<br><br>
-📚 Education:<br><br>
-B.Tech in CSE @ GJUS&T (7.8 CGPA) | HackerRank Certified (Top 15%)<br><br>
-🤝 Looking to collaborate on:<br><br>
-- Open-source projects and innovative web solutions<br>
-- AI-powered applications and automation tools<br><br>
-💬 Ask me about:<br><br>
-- Full-stack development (MERN)<br>
-- API optimization and performance tuning<br>
-- Agile workflows and AI-powered JIRA automation<br><br>
-⚡ Fun fact:<br><br>
-I've solved 240+ LeetCode problems and automated 60% of my university's placement cell workflows!
+# 🌟 **Kapil Sharma** 
+### 🚀 *Full-Stack Developer | AI Enthusiast | Open-Source Contributor*
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6d3R1d2R5a2V6eGx4Z2R6dWk1a2RqY2Z4bnBmc3B0eGZ6eWZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer Animation">
+</div>
+
+---
+
+## 🔥 **Current Focus**
+- ⚡ **Software Engineer Intern** @SkillRank (USA)  
+  `AI-Augmented Components` `GPT-4 Integration` `Performance Optimization`
+- 🌐 **Building** Next-gen web apps with `React` + `Node` + `AI` stack
+- 📚 **Learning** Advanced System Design & Cloud Architecture
+
+---
+
+## 🛠 **Tech Stack**
+| Category       | Technologies                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| 🖥 Frontend    | React, Next.js, TypeScript, TailwindCSS, ShadcnUI                          |
+| ⚙ Backend     | Node.js, Express, Python, Microservices, REST APIs                         |
+| 🗄 Databases   | MySQL, MongoDB, Firebase                                                   |
+| 🛠 DevOps      | AWS, Git, Linux (LFCS Certified), Docker, CI/CD                            |
+| 🤖 AI/ML       | LangChain, Llama 2, OpenAI Integration                                     |
+
+---
+
+## 🏆 **Key Achievements**
+- 🏥 Built **Prescripto** (500+ users, 92% booking accuracy)
+- 🎓 Created **ConnectGJUS&T** (2,500+ registrations, 99.9% uptime)
+- ⚡ Developed **AI-cached APIs** (30% faster responses)
+- 📈 Automated **60% workflows** for university placement cell
+- 🏅 **HackerRank Certified** (Top 15% LeetCode solver)
+
+---
+
+## 📫 **Let's Connect**
+- 📧 kapil19092003@gmail.com
+- 📞 +91 7027600736
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ0Y2J1dGx4bGZxY2Z3Z2R6dWk1a2RqY2Z4bnBmc3B0eGZ6eWZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Coding Animation">
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kapil-sharma-1aa402230) 
