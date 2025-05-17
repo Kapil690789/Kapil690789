@@ -1,5 +1,33 @@
 # 💫 About Me:
-👋 Hey there! I'm Kapil<br>🔭 Currently working on:<br><br>Aspiring Software Developer | Software Engineer intern at Skillrank<br>Web Developer at Gulmahal | MERN Stack Developer<br>LFCS Certified | Student at GJUS&T<br> Looking to collaborate on:<br><br>Open-source projects, MERN stack applications, and innovative web solutions<br>🤝 Looking for help with:<br><br>Scaling web applications and best DevOps practices<br>🌱 Currently learning:<br><br>Advanced backend development, cloud computing, and system design<br>💬 Ask me about:<br><br>JavaScript, React, Node.js, Linux, and full-stack development<br>⚡ Fun fact:<br><br>I love solving coding challenges and automating everyday tasks!<br>
+👋 Hey there! I'm Kapil Sharma<br>
+🔭 Currently working as:<br><br>
+- Software Engineer Intern at SkillRank (USA) - Building AI-augmented React components & REST APIs with AI caching<br>
+- Website Coordinator at GJUS&T - Developed Haryana's 1st centralized job fair platform (2,500+ registrations)<br>
+- MERN Stack Developer with 3+ production projects serving thousands of users<br><br>
+🌱 Currently learning:<br><br>
+- Advanced backend development with Node.js and Microservices<br>
+- Cloud computing (AWS, Firebase) and system design<br>
+- AI/ML integration in web apps (Llama 2, LangChain certified)<br><br>
+💻 Technical Skills:<br><br>
+- **Frontend:** ReactJS, NextJS, TypeScript, TailwindCSS<br>
+- **Backend:** Node.js, Express, RESTful APIs, Python<br>
+- **Databases:** MySQL, MongoDB, Firebase<br>
+- **DevOps:** Git, Linux (LFCS Certified), AWS, Render<br><br>
+🚀 Recent Achievements:<br><br>
+- Built healthcare platform serving 500+ users with 92% booking accuracy<br>
+- Created university portal handling 2,500+ annual registrations<br>
+- Developed AI-powered anonymous messaging platform with OpenAI integration<br><br>
+📚 Education:<br><br>
+B.Tech in CSE @ GJUS&T (7.8 CGPA) | HackerRank Certified (Top 15%)<br><br>
+🤝 Looking to collaborate on:<br><br>
+- Open-source projects and innovative web solutions<br>
+- AI-powered applications and automation tools<br><br>
+💬 Ask me about:<br><br>
+- Full-stack development (MERN)<br>
+- API optimization and performance tuning<br>
+- Agile workflows and AI-powered JIRA automation<br><br>
+⚡ Fun fact:<br><br>
+I've solved 240+ LeetCode problems and automated 60% of my university's placement cell workflows!
 
 
 ## 🌐 Socials:
