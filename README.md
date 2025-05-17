@@ -1,5 +1,5 @@
 # 🌟 **Kapil Sharma** 
-### 🚀 *Full-Stack Developer | AI Enthusiast | Open-Source Contributor*
+### 🚀 *Full-Stack Developer | AI Enthusiast | 
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6d3R1d2R5a2V6eGx4Z2R6dWk1a2RqY2Z4bnBmc3B0eGZ6eWZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer Animation">
