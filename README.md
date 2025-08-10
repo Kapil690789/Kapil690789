@@ -8,7 +8,8 @@
 ---
 
 ## 🔥 **Current Focus**
-- ⚡ **Software Engineer Intern** @SkillRank (USA)  
+- ⚡ **Software Engineer Intern** @Flock Ai (USA)
+-    **Former Software Engineer Intern** @SkillRank (USA)  
   `AI-Augmented Components` `GPT-4 Integration` `Performance Optimization`
 - 🌐 **Building** Next-gen web apps with `React` + `Node` + `AI` stack
 - 📚 **Learning** Advanced System Design & Cloud Architecture
