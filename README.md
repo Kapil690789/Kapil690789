@@ -3,30 +3,35 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6d3R1d2R5a2V6eGx4Z2R6dWk1a2RqY2Z4bnBmc3B0eGZ6eWZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer Animation">
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kapil19092003@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapil-sharma-1aa402230)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://vport-git-main-kapils-projects-7f5c4aaa.vercel.app)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/kapil1909/)
 </div>
 
 ---
 
 ## 🔥 **Current Focus**
-- ⚡ **Software Engineer Intern** @Flock AI (USA) - *AI-Augmented Components & GPT-4 Integration*
-- 🎯 **Former Software Engineer Intern** @SkillRank (USA) - *Performance Optimization & RAG Systems*
-- 🤖 **Building** Next-gen AI applications with `LLM` + `Agent Architecture` + `RAG` pipelines
-- 🌐 **Developing** Full-stack applications with `React` + `Node.js` + `Python` + `AI` integration
-- 📚 **Learning** Advanced System Design, Cloud Architecture & Agentic AI patterns
+- ⚡ **Software Engineer Intern** @**Flock AI** (New York) - *Generative AI & ML Models Integration*
+- 🎯 **Former Software Engineer Intern** @**SkillRank** (USA) - *AI-Augmented Components & GPT-4 Integration*
+- 🤖 **Building** Intelligent AI applications with **LLMs**, **Agent Architecture**, and **RAG** systems
+- 🌐 **Developing** Enterprise-grade applications with **React** + **Django** + **Python** + **AI** stack
+- 📚 **Learning** Advanced **Agentic AI**, **ComfyUI**, **LoRA**, and **Flux** for image generation
 
 ---
 
-## 🛠 **Technology Stack**
+## 🛠 **Technology Arsenal**
 
 ### 🤖 **AI/ML & Generative AI**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
 
-**Specializations:** Large Language Models (LLMs) • Retrieval-Augmented Generation (RAG) • AI Agents • Agentic AI • Generative AI • Llama 2 • GPT Integration • Vector Databases
+**AI Specializations:** Large Language Models (LLMs) • Generative AI • AI Agents • Agentic AI • RAG Systems • Llama 2 • GPT-4 Integration • Computer Vision • LoRA • Flux • ComfyUI
 
 ### 🖥 **Frontend Development**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,73 +45,99 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🗄 **Databases & Storage**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 
-### 🛠 **DevOps & Cloud**
+### ☁️ **DevOps & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🏆 **Key Achievements**
+## 🏆 **Professional Experience**
 
-### 🎯 **High-Impact Projects**
-- 🏥 **Prescripto** - Healthcare booking platform with **500+ active users** and **92% booking accuracy**
-- 🎓 **ConnectGJUS&T** - University platform serving **2,500+ registrations** with **99.9% uptime**
-- ⚡ **AI-Enhanced APIs** - Developed caching system achieving **30% faster response times**
-- 🤖 **RAG-Powered Chatbot** - Built intelligent assistant with **85% query resolution rate**
+### 💼 **Software Engineer Intern** | **Flock AI** (New York) `Current`
+- 🚀 Built scalable **Python & Django** APIs for enterprise applications
+- 🎨 Integrated **Generative AI** models (**LoRA**, **Flux**, **ComfyUI**) for automated image generation
+- 🌟 Contributed to applications across **fashion**, **beauty**, **wellness**, and **creative content** industries
+- ⚡ Developed **ML pipeline** for lifelike image generation with **95% accuracy**
 
-### 📈 **Technical Accomplishments**
-- 🔧 Automated **60% of workflows** for university placement cell
-- 🏅 **HackerRank Certified** - Top **15% LeetCode solver** (1000+ problems)
-- 🐧 **Linux Foundation Certified** - LFCS (Linux Foundation Certified System Administrator)
-- 🎯 **AI Integration Specialist** - Successfully integrated GPT-4 and custom LLMs into production systems
+### 🎯 **Software Engineer Intern** | **SkillRank** (USA)
+- 🤖 Built **AI-augmented React components** improving user engagement by **25%**
+- ⚡ Developed **REST APIs** with intelligent caching, achieving **30% faster response times**
+- 🧠 Created **GPT-4 powered documentation assistant** streamlining developer onboarding
+- 📊 Built **Python-based ML system** for infrastructure monitoring and bottleneck prediction
 
-### 🌟 **Industry Recognition**
-- 💼 **Dual US Internships** - Flock AI & SkillRank
-- 🚀 **Performance Optimization Expert** - Reduced API response time by 30%
-- 🤝 **Open Source Contributor** - Active contributor to AI/ML projects
-
----
-
-## 🎯 **Core Expertise**
-
-| Domain | Technologies & Skills |
-|--------|----------------------|
-| 🤖 **AI/ML** | Large Language Models, RAG Systems, AI Agents, Agentic AI, Vector Embeddings |
-| 🧠 **Generative AI** | GPT Integration, Custom LLMs, Prompt Engineering, Fine-tuning |
-| 🖥 **Frontend** | React, Next.js, TypeScript, TailwindCSS, ShadcnUI, Responsive Design |
-| ⚙ **Backend** | Node.js, Express, Python, Django, FastAPI, Microservices, REST APIs |
-| 🗄 **Databases** | MongoDB, MySQL, Firebase, Redis, Vector Databases (Pinecone) |
-| ☁️ **Cloud & DevOps** | AWS, Docker, Linux, CI/CD, Git, Performance Optimization |
+### 🌐 **Website Coordinator** | **GJUS&T Training & Placement Cell**
+- 🏗️ Built **Haryana's 1st centralized job fair platform** (2,500+ registrations)
+- 🔐 Implemented **OAuth 2.0 role-based access** reducing manual work by **40%**
+- 📈 Achieved **20% engagement growth** through responsive UI and automated alerts
+- 🎓 Platform adopted by **15+ colleges** across Haryana
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 **Featured AI Projects**
 
-### 🤖 AI-Powered Applications
-- **Intelligent RAG System** - Built retrieval-augmented generation pipeline with 85% accuracy
-- **AI Agent Framework** - Developed autonomous agents for task automation
-- **Custom LLM Integration** - Implemented GPT-4 and Llama 2 for enterprise solutions
+### 🤖 **AI Interview Agent** | [Live Demo](https://lnkd.in/gPXfjguJ) | [GitHub](https://lnkd.in/gPHWxvgA)
+- 🎯 **Intelligent interviewing system** that conducts technical interviews across multiple tech stacks
+- 🧠 **Multi-role support** - Frontend, Backend, DevOps, AI/ML, and more
+- 💬 **Natural language processing** for dynamic question generation and evaluation
+- 📊 **Real-time assessment** with detailed feedback and scoring
+- 🚀 **No signup required** - instant access for seamless user experience
 
-### 🌐 Full-Stack Applications
-- **Prescripto** - React + Node.js healthcare platform (500+ users)
-- **ConnectGJUS&T** - University management system (2,500+ registrations)
-- **AI-Enhanced APIs** - Optimized backend services with intelligent caching
+### 🍛 **Rasoi AI - Smart Recipe Planner** | [Live Demo](https://lnkd.in/gDJTd_hs)
+- 🤖 **AI-powered recipe generation** from available ingredients
+- 🗣️ **Multi-lingual voice instructions** in multiple Indian languages
+- 🧠 **Smart meal planning** with nutritional analysis and dietary preferences
+- 🎨 **Modern UI/UX** with responsive design and intuitive navigation
+- ⚡ **Real-time ingredient recognition** and recipe suggestions
+
+### 🏥 **Prescripto - Healthcare Management** | [Live Demo](https://prescripto-frontend-weld.vercel.app/) | [GitHub](https://github.com/Kapil690789/prescripto)
+- 💊 **End-to-end appointment system** serving **500+ active users**
+- 🎯 **92% booking accuracy** with automated scheduling algorithms
+- ⏰ **35% reduction in patient wait times** through intelligent slot management
+- 🔐 **HIPAA-compliant** data handling with secure authentication
+
+### 🎓 **iConnectGJUS&T - University Portal** | [Live Demo](https://iconnectgjust.vercel.app/) | [GitHub](https://github.com/Kapil690789/iConnectGJUST)
+- 🏫 **Centralized university platform** with **2,500+ annual registrations**
+- ⚡ **99.9% uptime** managing **50+ cross-campus events**
+- 🤖 **Automated 3+ administrative workflows** reducing manual processing by **60%**
+- 🛡️ **GDPR-compliant** data handling with advanced security measures
+
+### 💬 **MstryMessage - Anonymous Messaging** | [Live Demo](https://mstrymessage-nine.vercel.app/) | [GitHub](https://github.com/Kapil690789/mstrymessage)
+- 🔮 **Next.js & TypeScript** powered anonymous messaging platform
+- 🤖 **OpenAI integration** for intelligent message suggestions
+- 🔒 **Complete anonymity** with secure message handling
+- 🎨 **Modern design** with dark/light mode support
 
 ---
 
-## 📊 **GitHub Statistics**
+## 🏅 **Certifications & Achievements**
+
+### 🏆 **Professional Certifications**
+- 🥇 **HackerRank Certified** - Software Engineering & Linux Administration
+- 🤖 **SkillRank Certified** - AI Agents & LLMs (Llama 2, LangChain)
+- 🐧 **Linux Foundation Certified System Administrator (LFCS)**
+
+### 🎯 **Competitive Programming**
+- 💻 **Top 15% LeetCode** solver with **240+ problems** solved
+- 🧩 **70+ GeeksforGeeks** challenges completed
+- 🏅 **Multiple platform** problem-solving achievements
+
+### 🎓 **Academic Excellence**
+- 🏫 **B.Tech Computer Science & Engineering** | GJUS&T (CGPA: 7.5/10)
+- 📚 **Data Structures & Algorithms** specialist
+- 🌐 **Computer Networks & System Design** expertise
+
+---
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
@@ -120,46 +151,67 @@
 
 ---
 
-## 🏆 **Achievements & Certifications**
+## 🏆 **Achievement Showcase**
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kapil690789&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🥇 **HackerRank Certified** - Top 15% Problem Solver
-- 🐧 **Linux Foundation Certified System Administrator (LFCS)**
-- 🏆 **1000+ LeetCode Problems Solved**
-- 🎯 **AI/ML Specialization** - Multiple course completions
+---
+
+## 🎯 **Core Technical Skills**
+
+| **Domain** | **Technologies & Expertise** |
+|------------|------------------------------|
+| 🤖 **AI/ML** | Large Language Models, Generative AI, Computer Vision, MLOps |
+| 🧠 **Generative AI** | GPT-4, Llama 2, LoRA, Flux, ComfyUI, Image Generation |
+| 🕷️ **AI Agents** | Agentic AI, LangChain, Multi-Agent Systems, RAG Architecture |
+| 🖥️ **Frontend** | React, Next.js, TypeScript, TailwindCSS, ShadcnUI, Responsive Design |
+| ⚙️ **Backend** | Node.js, Python, Django, Express, PHP, Microservices Architecture |
+| 🗄️ **Databases** | MongoDB, MySQL, Firebase, Query Optimization, Database Design |
+| ☁️ **Cloud & DevOps** | AWS, Linux, Docker, CI/CD, Performance Optimization, System Design |
+| 🔧 **Tools** | Git, Postman, Agile/Scrum, cPanel, Render, Docker |
 
 ---
 
-## 📫 **Let's Connect & Collaborate**
+## 🌟 **What Sets Me Apart**
+
+- 🚀 **Dual US Internship Experience** at leading AI companies
+- 🎯 **500+ users** served across multiple production applications
+- 🤖 **AI-First Approach** in all development projects
+- ⚡ **Performance Optimization** expert with proven **30%+ improvements**
+- 🏆 **Top-tier Problem Solver** with **240+ LeetCode solutions**
+- 🌐 **Full-Stack + AI Expertise** - rare combination in the market
+
+---
+
+## 📈 **Impact Metrics**
+
+| **Metric** | **Achievement** |
+|------------|-----------------|
+| 👥 **Users Served** | 3,000+ across all platforms |
+| ⚡ **Performance Gain** | 30% faster API responses |
+| 🎯 **Accuracy Rate** | 92% in healthcare booking system |
+| 🕐 **Time Saved** | 60% reduction in manual workflows |
+| 🏫 **Institutional Adoption** | 15+ colleges using developed platform |
+| 🔄 **System Uptime** | 99.9% reliability across projects |
+
+---
+
+## 🎯 **Current Learning Journey**
+- 🧠 **Advanced Agentic AI Patterns** & Multi-Agent Orchestration
+- 🎨 **Computer Vision & Generative AI** with Diffusion Models
+- ☁️ **Cloud-Native AI Architecture** & MLOps Best Practices
+- 🌐 **Distributed Systems Design** for AI Applications
+
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapil19092003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kapil-sharma-1aa402230)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vport-git-main-kapils-projects-7f5c4aaa.vercel.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kapil1909/)
-
-**📧 Email:** kapil19092003@gmail.com  
-**📱 Phone:** +91 7027600736
-
-</div>
-
----
-
-## 💡 **Current Learning Path**
-- 🧠 Advanced Agentic AI Patterns
-- ☁️ Cloud-Native AI Architecture  
-- 🔧 MLOps & AI Pipeline Optimization
-- 🌐 Distributed Systems Design
-
----
-
-<div align="center">
-
-### ✨ *"Building the future with AI, one line of code at a time"* ✨
+### 🚀 *"Transforming ideas into intelligent solutions, one algorithm at a time"* 
 
 ![Coding Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ0Y2J1dGx4bGZxY2Z3Z2R6dWk1a2RqY2Z4bnBmc3B0eGZ6eWZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+### 📫 **Ready to Collaborate?**
+**Email:** kapil19092003@gmail.com | **Phone:** +91 7027600736 | **Location:** Hisar, Haryana
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=Kapil690789&icon=2&color=6)](https://visitcount.itsvg.in)
 
@@ -167,9 +219,9 @@
 
 ---
 
-### 🎯 **Random Dev Quote**
+### 💡 **Random Dev Wisdom**
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-*💫 Open to collaborating on innovative AI projects and full-stack applications!*
+*🌟 Open to exciting opportunities in **AI Engineering**, **Full-Stack Development**, and **Generative AI** roles! Let's build the future together.*
