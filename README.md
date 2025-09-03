@@ -1,5 +1,5 @@
 # 🌟 **Kapil Sharma** 
-### 🚀 *Full-Stack Developer | AI Enthusiast | 
+### 🚀 *Full-Stack Developer | AI Engineer | Generative AI Specialist*
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6d3R1d2R5a2V6eGx4Z2R6dWk1a2RqY2Z4bnBmc3B0eGZ6eWZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer Animation">
@@ -8,62 +8,168 @@
 ---
 
 ## 🔥 **Current Focus**
-- ⚡ **Software Engineer Intern** @Flock Ai (USA)
--    **Former Software Engineer Intern** @SkillRank (USA)  
-  `AI-Augmented Components` `GPT-4 Integration` `Performance Optimization`
-- 🌐 **Building** Next-gen web apps with `React` + `Node` + `AI` stack
-- 📚 **Learning** Advanced System Design & Cloud Architecture
+- ⚡ **Software Engineer Intern** @Flock AI (USA) - *AI-Augmented Components & GPT-4 Integration*
+- 🎯 **Former Software Engineer Intern** @SkillRank (USA) - *Performance Optimization & RAG Systems*
+- 🤖 **Building** Next-gen AI applications with `LLM` + `Agent Architecture` + `RAG` pipelines
+- 🌐 **Developing** Full-stack applications with `React` + `Node.js` + `Python` + `AI` integration
+- 📚 **Learning** Advanced System Design, Cloud Architecture & Agentic AI patterns
 
 ---
 
-## 🛠 **Tech Stack**
-| Category       | Technologies                                                                 |
-|----------------|-----------------------------------------------------------------------------|
-| 🖥 Frontend    | React, Next.js, TypeScript, TailwindCSS, ShadcnUI                          |
-| ⚙ Backend     | Node.js, Express, Python, Microservices, REST APIs                         |
-| 🗄 Databases   | MySQL, MongoDB, Firebase                                                   |
-| 🛠 DevOps      | AWS, Git, Linux (LFCS Certified), Docker, CI/CD                            |
-| 🤖 AI/ML       | LangChain, Llama 2, OpenAI Integration                                     |
+## 🛠 **Technology Stack**
+
+### 🤖 **AI/ML & Generative AI**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+
+**Specializations:** Large Language Models (LLMs) • Retrieval-Augmented Generation (RAG) • AI Agents • Agentic AI • Generative AI • Llama 2 • GPT Integration • Vector Databases
+
+### 🖥 **Frontend Development**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### ⚙ **Backend Development**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🗄 **Databases & Storage**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+
+### 🛠 **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
 ## 🏆 **Key Achievements**
-- 🏥 Built **Prescripto** (500+ users, 92% booking accuracy)
-- 🎓 Created **ConnectGJUS&T** (2,500+ registrations, 99.9% uptime)
-- ⚡ Developed **AI-cached APIs** (30% faster responses)
-- 📈 Automated **60% workflows** for university placement cell
-- 🏅 **HackerRank Certified** (Top 15% LeetCode solver)
+
+### 🎯 **High-Impact Projects**
+- 🏥 **Prescripto** - Healthcare booking platform with **500+ active users** and **92% booking accuracy**
+- 🎓 **ConnectGJUS&T** - University platform serving **2,500+ registrations** with **99.9% uptime**
+- ⚡ **AI-Enhanced APIs** - Developed caching system achieving **30% faster response times**
+- 🤖 **RAG-Powered Chatbot** - Built intelligent assistant with **85% query resolution rate**
+
+### 📈 **Technical Accomplishments**
+- 🔧 Automated **60% of workflows** for university placement cell
+- 🏅 **HackerRank Certified** - Top **15% LeetCode solver** (1000+ problems)
+- 🐧 **Linux Foundation Certified** - LFCS (Linux Foundation Certified System Administrator)
+- 🎯 **AI Integration Specialist** - Successfully integrated GPT-4 and custom LLMs into production systems
+
+### 🌟 **Industry Recognition**
+- 💼 **Dual US Internships** - Flock AI & SkillRank
+- 🚀 **Performance Optimization Expert** - Reduced API response time by 30%
+- 🤝 **Open Source Contributor** - Active contributor to AI/ML projects
 
 ---
 
-## 📫 **Let's Connect**
-- 📧 kapil19092003@gmail.com
-- 📞 +91 7027600736
+## 🎯 **Core Expertise**
+
+| Domain | Technologies & Skills |
+|--------|----------------------|
+| 🤖 **AI/ML** | Large Language Models, RAG Systems, AI Agents, Agentic AI, Vector Embeddings |
+| 🧠 **Generative AI** | GPT Integration, Custom LLMs, Prompt Engineering, Fine-tuning |
+| 🖥 **Frontend** | React, Next.js, TypeScript, TailwindCSS, ShadcnUI, Responsive Design |
+| ⚙ **Backend** | Node.js, Express, Python, Django, FastAPI, Microservices, REST APIs |
+| 🗄 **Databases** | MongoDB, MySQL, Firebase, Redis, Vector Databases (Pinecone) |
+| ☁️ **Cloud & DevOps** | AWS, Docker, Linux, CI/CD, Git, Performance Optimization |
+
+---
+
+## 🚀 **Featured Projects**
+
+### 🤖 AI-Powered Applications
+- **Intelligent RAG System** - Built retrieval-augmented generation pipeline with 85% accuracy
+- **AI Agent Framework** - Developed autonomous agents for task automation
+- **Custom LLM Integration** - Implemented GPT-4 and Llama 2 for enterprise solutions
+
+### 🌐 Full-Stack Applications
+- **Prescripto** - React + Node.js healthcare platform (500+ users)
+- **ConnectGJUS&T** - University management system (2,500+ registrations)
+- **AI-Enhanced APIs** - Optimized backend services with intelligent caching
+
+---
+
+## 📊 **GitHub Statistics**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ0Y2J1dGx4bGZxY2Z3Z2R6dWk1a2RqY2Z4bnBmc3B0eGZ6eWZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Coding Animation">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kapil690789&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kapil690789&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil690789&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kapil-sharma-1aa402230) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kapil690789&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kapil690789&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil690789&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 **Achievements & Certifications**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kapil690789&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kapil690789&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kapil690789&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🥇 **HackerRank Certified** - Top 15% Problem Solver
+- 🐧 **Linux Foundation Certified System Administrator (LFCS)**
+- 🏆 **1000+ LeetCode Problems Solved**
+- 🎯 **AI/ML Specialization** - Multiple course completions
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kapil690789&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapil19092003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kapil-sharma-1aa402230)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vport-git-main-kapils-projects-7f5c4aaa.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kapil1909/)
+
+**📧 Email:** kapil19092003@gmail.com  
+**📱 Phone:** +91 7027600736
+
+</div>
+
+---
+
+## 💡 **Current Learning Path**
+- 🧠 Advanced Agentic AI Patterns
+- ☁️ Cloud-Native AI Architecture  
+- 🔧 MLOps & AI Pipeline Optimization
+- 🌐 Distributed Systems Design
+
+---
+
+<div align="center">
+
+### ✨ *"Building the future with AI, one line of code at a time"* ✨
+
+![Coding Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ0Y2J1dGx4bGZxY2Z3Z2R6dWk1a2RqY2Z4bnBmc3B0eGZ6eWZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=Kapil690789&icon=2&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+### 🎯 **Random Dev Quote**
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+*💫 Open to collaborating on innovative AI projects and full-stack applications!*
