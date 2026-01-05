@@ -8,6 +8,12 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapil-sharma-1aa402230)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://vport-git-main-kapils-projects-7f5c4aaa.vercel.app)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/kapil1909/)
+  
+  <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Kapil690789&label=Profile%20Views&color=0e75b6&style=flat)
+  [![GitHub followers](https://img.shields.io/github/followers/Kapil690789?label=Followers&style=social)](https://github.com/Kapil690789)
+  [![GitHub stars](https://img.shields.io/github/stars/Kapil690789?label=Stars&style=social)](https://github.com/Kapil690789)
 </div>
 
 ---
@@ -153,7 +159,11 @@
 
 ## 🏆 **Achievement Showcase**
 
+<div align="center">
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kapil690789&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 ---
 
@@ -185,6 +195,8 @@
 
 ## 📈 **Impact Metrics**
 
+<div align="center">
+
 | **Metric** | **Achievement** |
 |------------|-----------------|
 | 👥 **Users Served** | 3,000+ across all platforms |
@@ -193,6 +205,8 @@
 | 🕐 **Time Saved** | 60% reduction in manual workflows |
 | 🏫 **Institutional Adoption** | 15+ colleges using developed platform |
 | 🔄 **System Uptime** | 99.9% reliability across projects |
+
+</div>
 
 ---
 
@@ -204,24 +218,54 @@
 
 ---
 
+## 🤝 **Connect With Me**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapil-sharma-1aa402230)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vport-git-main-kapils-projects-7f5c4aaa.vercel.app)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kapil1909/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapil19092003@gmail.com)
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🚀 *"Transforming ideas into intelligent solutions, one algorithm at a time"* 
 
 ![Coding Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ0Y2J1dGx4bGZxY2Z3Z2R6dWk1a2RqY2Z4bnBmc3B0eGZ6eWZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-### 📫 **Ready to Collaborate?**
-**Email:** kapil19092003@gmail.com | **Phone:** +91 7027600736 | **Location:** Hisar, Haryana
+### 📫 **Let's Build Something Amazing Together!**
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Kapil690789&icon=2&color=6)](https://visitcount.itsvg.in)
+📧 **Email:** kapil19092003@gmail.com  
+📱 **Phone:** +91 7027600736  
+📍 **Location:** Hisar, Haryana, India
+
+---
+
+### 💡 **Random Dev Quote**
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 📈 **Contribution Graph**
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kapil690789&theme=react-dark&hide_border=true)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kapil690789&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-### 💡 **Random Dev Wisdom**
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  
+*⭐ Open to exciting opportunities in **AI Engineering**, **Full-Stack Development**, and **Generative AI** roles!*
+  
+*Let's connect and build the future of AI together! 🚀*
 
----
-
-*🌟 Open to exciting opportunities in **AI Engineering**, **Full-Stack Development**, and **Generative AI** roles! Let's build the future together.*
+</div>
