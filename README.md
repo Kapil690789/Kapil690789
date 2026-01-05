@@ -12,8 +12,7 @@
   <br/>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Kapil690789&label=Profile%20Views&color=0e75b6&style=flat)
-  [![GitHub followers](https://img.shields.io/github/followers/Kapil690789?label=Followers&style=social)](https://github.com/Kapil690789)
-  [![GitHub stars](https://img.shields.io/github/stars/Kapil690789?label=Stars&style=social)](https://github.com/Kapil690789)
+  
 </div>
 
 ---
